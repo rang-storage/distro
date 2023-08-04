@@ -1,0 +1,2 @@
+# distro
+rootfs termux
