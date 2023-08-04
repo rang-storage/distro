@@ -1,2 +1,1 @@
-# distro
-rootfs termux
+rootfs termux arm64
